@@ -26,6 +26,9 @@ body {
     background-color: #3a393d;
     color: #f2f2f2;
 }
+body a {
+    color: #f2f2f2;
+}
 
 .topnav a {
     float: left;
