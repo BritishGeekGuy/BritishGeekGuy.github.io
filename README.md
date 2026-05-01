@@ -1,2 +1,2 @@
-# britishGeekGuy.github.io/britishgeek.me
+# britishGeekGuy.github.io
 Source Code of my website.
